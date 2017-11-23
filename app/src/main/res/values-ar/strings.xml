@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المتابع لنتيجة تنس الطاولة</string>
+    <string name="first_team">الفريق الأول</string>
+    <string name="second_team">الفريق الثاني</string>
+    <string name="by_opponent">&lt;- من خصمه -&gt;</string>
+    <string name="opponent_fails_return_btn">فشل الإرجاع</string>
+    <string name="opponent_touches_net_btn">لمس الشبكة</string>
+    <string name="opponent_obstructs_ball_btn">يعيق الكرة</string>
+    <string name="opponent_strikes_ball_twice_btn">ضرب الكرة مرتين</string>
+    <string name="any_of_above_third_time_happens_btn">ثالث مره تحدث (2 نقاط)</string>
+    <string name="reset_btn">إعادة تعيين</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Table Tennis Score Keeper</string>
+
+    <string name="first_team">1st Team</string>
+    <string name="first_team_result">0</string>
+
+    <string name="second_team">2nd Team</string>
+    <string name="second_team_result">0</string>
+
+    <string name="by_opponent">" &lt;- By Opponent -&gt; "</string>
+
+    <string name="opponent_fails_return_btn">Fails return</string>
+    <string name="opponent_touches_net_btn">Touches net</string>
+    <string name="opponent_obstructs_ball_btn">Obstructs ball</string>
+    <string name="opponent_strikes_ball_twice_btn">Strikes ball twice</string>
+    <string name="any_of_above_third_time_happens_btn">3rd time happens (2 Points)</string>
+
+    <string name="reset_btn">Reset</string>
+
+</resources>
